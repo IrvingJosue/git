@@ -1,0 +1,20 @@
+git clone
+git checkout
+git status
+
+git add
+ .
+ ruta
+git reset
+ .
+ ruta
+
+ git commit
+  -m
+  -a
+
+agrega un archivo y el comentario
+git commit -a -m "commit 3"
+
+git log
+--oneline
